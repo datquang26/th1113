@@ -7,11 +7,11 @@ export default function onboarding1() {
       <Image
         style={styles.tinyLogo}
         source={{
-          uri: 'https://lun-eu.icons8.com/a/_idtan2riEq9AVZWc4eiCA/lFrAHFYXAESYaE5qZQqzMw/noun_mac_2076879.png',
+          uri: 'https://lun-eu.icons8.com/a/_idtan2riEq9AVZWc4eiCA/3Zlvk6Gjy0qV7wk_NVVm7g/icons8-delivery-500.png',
         }}
       />
-      <Text style={styles.browseFood}>Make Reservations</Text>
-      <Text style={styles.Welcome}>We know you’re busy, so you can pay with your phone in just one click</Text>
+      <Text style={styles.browseFood}>Order Food</Text>
+      <Text style={styles.Welcome}>Hungry? Order food in just a few clicks and we’ll take care of you..</Text>
       <StatusBar style="auto" />
     </View>
   );
